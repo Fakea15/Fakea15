@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Fakea15
+- 👋 Hi, I’m Fakea Vangchhia
 - 👀 I’m interested in A.I world
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate with Python Programmer
